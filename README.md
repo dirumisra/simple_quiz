@@ -11,5 +11,5 @@ This is a simple quiz application built in Python. The quiz will ask multiple-ch
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-quiz-app.git
+   git clone https://github.com/dirumisra/simple_quiz.git
    cd simple-quiz-app
